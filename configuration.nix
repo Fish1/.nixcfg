@@ -62,7 +62,10 @@
       pkgs.vscode
       pkgs.inkscape
       pkgs.kstars
+      pkgs.indi-full
       pkgs.libsForQt5.breeze-icons
+      pkgs.gimp
+      pkgs.siril
     ];
   };
 
