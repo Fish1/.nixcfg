@@ -61,8 +61,9 @@
       pkgs.chromium
       pkgs.vscode
       pkgs.inkscape
-      pkgs.kstars
       pkgs.indi-full
+      pkgs.indilib
+      pkgs.kstars
       pkgs.libsForQt5.breeze-icons
       pkgs.gimp
       pkgs.siril
